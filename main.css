@@ -1,0 +1,43 @@
+h1{
+    color:red;
+    background-color:#000000;
+    font-size:40px;
+    text-align: center;
+    text-shadow:3px 3px 5px blue; 
+  }
+  
+  h2{
+    color:rgb(255,255,255);
+    background-color:hsl(120,100%,50%);
+    font-weight:bold;
+    text-decoration: underline;
+  }
+  
+  h3{
+    color:yellow;
+    font-style:italic;
+    text-transform: uppercase;
+    line-height:1.5;
+    word-spacing: .50em;
+  }
+  
+  p{
+    color:hsla(177,53%,44%,1);
+    font-variant:small-caps;
+  }
+  
+  ul{
+    background-color:#EADBC8;
+    letter-spacing: 0.0500em;
+  }
+  
+  ol{
+    color:lightgray;
+    background-color:hsl(0, 100%, 100%);
+    letter-spacing: 0.0500em;
+  }
+  
+  html{
+    background-color:hsla(303, 85%, 34%, 1);
+    <!--#a00d99, rgba(160, 13, 153, 1)-->
+  }
